@@ -22,6 +22,8 @@ namespace Testes {
             Console.WriteLine();
             Console.WriteLine(c);
 
+            Console.WriteLine("ver se deu certo");
+
         }
 
     }
