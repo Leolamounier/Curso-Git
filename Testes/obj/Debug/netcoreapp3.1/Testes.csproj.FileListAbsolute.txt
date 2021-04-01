@@ -1,0 +1,13 @@
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+C:\Users\Léo\Projetos Visual Studio\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
